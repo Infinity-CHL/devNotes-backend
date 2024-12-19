@@ -1,6 +1,6 @@
-# js-days-blog-backend
+# devNotes backend
 
-**JS-Days-Blog-Backend - сервеная часть сайта**
+**devNotes backend - сервеная часть сайта**
 
 # Требования
 
@@ -14,7 +14,7 @@
 
 Установить используя `ssh`...
 ```bash
-git clone git@github.com:darL1n/django-log-managment.git
+git clone https://github.com/Infinity-CHL/devNotes-backend.git
 ```
 ## Установка зависимостей
 
